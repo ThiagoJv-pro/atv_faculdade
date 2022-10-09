@@ -7,8 +7,7 @@ int main(){
     bool logic = true;
     char  p1 [Max] ;
     char  p2 [Max] ;
-    char  aux;
-
+  
     printf("Digite o primeiro Texto: ");
     scanf("%s", p1);
     printf("Digite o segundo Texto: ");
